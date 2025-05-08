@@ -1,13 +1,13 @@
 # 19 Testing: Tech Quiz Test Suite
 
-[1. Your Task](#Your-Task) 
-[2. Your Task](#User-Story) 
-[3. Your Task](#Acceptance-Criteria) 
-[4. Your Task](#Mock-Up) 
-[5. Your Task](#Getting-Started) 
-[6. Your Task](#Installation) 
-[7. Your Task](#Review) 
-[8. Your Task](#License) 
+[1. Your Task](#Your-Task)  
+[2. Your Task](#User-Story)  
+[3. Your Task](#Acceptance-Criteria)  
+[4. Your Task](#Mock-Up)  
+[5. Your Task](#Getting-Started)  
+[6. Your Task](#Installation)  
+[7. Your Task](#Review)  
+[8. Your Task](#License)  
 
 
 ## Your Task
