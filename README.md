@@ -58,6 +58,15 @@ Your testing should use [Cypress](https://docs.cypress.io/guides/overview/why-cy
 
 ```bash
 npm run test
+
+## Installation
+
+1. npm install
+2. npm run build
+3. npm run start (to connect to the localhost:3001)
+4. npm run  start:dev
+5. npx cypress open (to start the cypress application)
+
 ```
 
 It's recommended that you start with a directory structure that looks like the following example:
