@@ -1,14 +1,13 @@
 # 19 Testing: Tech Quiz Test Suite
 
-[1. Your Task](##-Your-Task)
-[2. Your Task](##-User-Story)
-[3. Your Task](##-Acceptance-Criteria)
-[4. Your Task](##-Mock-Up)
-[5. Your Task](##-Getting-started)
-[6. Your Task](##-Your-Task)
-[7. Your Task](##-Installation)
-[8. Your Task](##-Review)
-[9. Your Task](##-License)
+[1. Your Task](#Your-Task) 
+[2. Your Task](#User-Story) 
+[3. Your Task](#Acceptance-Criteria) 
+[4. Your Task](#Mock-Up) 
+[5. Your Task](#Getting-Started) 
+[6. Your Task](#Installation) 
+[7. Your Task](#Review) 
+[8. Your Task](#License) 
 
 
 ## Your Task
@@ -103,10 +102,6 @@ It's recommended that you start with a directory structure that looks like the f
 **Note**: The server for this application requires environment variables to function properly. You'll need to rename the `.env.example` file to `.env`.
 
 ## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video that demonstrates the functionality of the application and the application successfully passing tests.
 
 * The URL of your GitHub repository should have a unique name and include a README describing the project:
 * email: mohsinansare@gmail.com
