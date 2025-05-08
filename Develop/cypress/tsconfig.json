@@ -1,0 +1,7 @@
+{
+  "extends": "../client/tsconfig.json",
+  "compilerOptions": {
+    "types": ["cypress", "@testing-library/cypress"]
+  },
+  "include": ["**/*.ts", "**/*.tsx"]
+}
