@@ -1,5 +1,7 @@
 # 19 Testing: Tech Quiz Test Suite
 
+[1. Your Task](@Your-task)
+
 ## Your Task
 
 Your assignment this week underscores the importance of ensuring reliability and robustness in modern web applications through comprehensive testing. In today's dynamic development environment, testing is not just an afterthought but a critical part of the development process that ensures applications meet user demands and perform efficiently under various conditions.
@@ -97,9 +99,10 @@ You are required to submit BOTH of the following for review:
 
 * A walkthrough video that demonstrates the functionality of the application and the application successfully passing tests.
 
-* The URL of your GitHub repository, which should have a unique name and include a README describing the project.
+* The URL of your GitHub repository should have a unique name and include a README describing the project:
 * email: mohsinansare@gmail.com
 * https://github.com/mohsinansare/Techquiz_testing_chlng19
+* https://github.com/mohsinansare/Techquiz_testing_chlng19/blob/main/README.md
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
